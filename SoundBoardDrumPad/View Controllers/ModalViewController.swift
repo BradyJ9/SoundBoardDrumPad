@@ -48,7 +48,6 @@ class ModalViewController: UIViewController {
     
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
-        //print("Hello")
     }
     
     
